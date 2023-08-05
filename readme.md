@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abrar-ahmed-21bscs20&label=Profile%20views&color=0e75b6&style=flat" alt="abrar-ahmed-21bscs20" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abrar-ahmed-21bscs20&theme=darkhub" alt="abrar-ahmed-21bscs20" /></a> </p>
-
 - 🌱 I’m currently learning **Mobile App Development**
 
 - 📝 I regularly write articles on [codewithabrar.com](codewithabrar.com)
