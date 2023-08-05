@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abrar Ahmed Shahok</h1>
-<h3 align="center">A passionate Flutter developer from Pakistan</h3>
+<h3 align="center">I am a passionate Computer Science aspirant on an exciting journey to master the art of Mobile App Development and currently learning Flutter, Firebase, Rest API integration, and captivating UI design. My vision is to craft exceptional, user-centric applications that seamlessly blend functionality with elegance. Join me as I pave the way for innovative and efficient Flutter development!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abrar-ahmed-21bscs20&label=Profile%20views&color=0e75b6&style=flat" alt="abrar-ahmed-21bscs20" /> </p>
 
