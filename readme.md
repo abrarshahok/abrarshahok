@@ -1,5 +1,15 @@
-<h1 align="center">Hi 👋, I'm Abrar Ahmed Shahok</h1>
-I am a passionate Computer Science aspirant on an exciting journey to master the art of Mobile App Development and currently learning Flutter, Firebase, Rest API integration, and captivating UI design. My vision is to craft exceptional, user-centric applications that seamlessly blend functionality with elegance. Join me as I pave the way for innovative and efficient Flutter development!
+# Hi 👋, I'm Abrar Ahmed Shahok
+
+🚀 Aspiring Computer Science Enthusiast | Mobile App Developer in the Making
+
+Welcome to my coding odyssey, where I'm on an exhilarating quest to conquer the realm of Mobile App Development. 📱 Currently, I'm immersing myself in the enchanting worlds of Flutter, Firebase, Rest API integration, and the art of crafting captivating UI designs.
+
+🌟 My Vision:
+I envision a world where exceptional apps redefine user experiences, seamlessly intertwining functionality and elegance. My goal is to master the art of creating user-centric applications that stand out from the crowd.
+
+🤝 Join Me:
+Embark on this exciting journey with me as I pave the way for innovative and efficient Flutter development. Let's code, create, and make waves in the world of mobile apps!
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abrar-ahmed-21bscs20&label=Profile%20views&color=0e75b6&style=flat" alt="abrar-ahmed-21bscs20" /> </p>
 
