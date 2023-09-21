@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **Mobile App Development**
 
-- 📝 I regularly write articles on [codewithabrar.com](codewithabrar.com)
+- 📝 See my Articles on [codewithabrar.com](codewithabrar.com)
 
-- 💬 Ask me about **Android, Flutter**
+- 💬 Ask me about **Android App Developmeny, Flutter, Dart**
 
 - 📫 Reach me at **info@codewithabrar.com**
 
