@@ -10,7 +10,7 @@
 
 - 📝 See my Articles on [codewithabrar.com](codewithabrar.com)
 
-- 💬 Ask me about **Android App Developmeny, Flutter, Dart**
+- 💬 Ask me about **Android App Development, Flutter, Dart**
 
 - 📫 Reach me at **info@codewithabrar.com**
 
