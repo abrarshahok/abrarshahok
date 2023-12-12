@@ -2,7 +2,7 @@
 
 🚀 Aspiring Computer Science Enthusiast | Mobile App Developer in the Making
 
-🚀 I'm' on an exciting journey to master the art of Mobile App Development and currently learning Flutter, Firebase, Rest API integration, and Stunning UI design. 
+🚀 I'm on an exciting journey to master the art of Mobile App Development and currently learning Flutter, Firebase, Rest API integration, and Stunning UI design. 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abrar-ahmed-21bscs20&label=Profile%20views&color=0e75b6&style=flat" alt="abrar-ahmed-21bscs20" /> </p>
 
