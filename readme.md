@@ -9,7 +9,7 @@ I'm a passionate **AI/ML Engineer and Full-Stack Mobile Developer**, skilled in 
 ### 📄 My CV
 <p align="center">
 <a href="https://drive.google.com/file/d/1BSuBB4BszoAh6HC9T3DkFT5nJGPhw3bf/view?usp=share_link" target="blank">
-<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" alt="Download My CV" height="40" width="40" />
+<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" alt="Download My CV" height="40" width="40" />
 </a>
 </p>
 
